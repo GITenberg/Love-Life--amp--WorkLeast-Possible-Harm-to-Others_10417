@@ -1,0 +1,33 @@
+_repo: Love-Life--amp--WorkLeast-Possible-Harm-to-Others_10417
+_version: 0.0.1
+alternative_title: Love, Life and Work
+creator:
+  author:
+    agent_name: Hubbard, Elbert
+    aliases:
+    - Ali Baba
+    - Elbertus, Fra
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '228'
+    url: http://www.gutenberg.org/2009/agents/228
+    wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcc 'BF'
+- !lcsh 'Happiness'
+- !lcsh 'Conduct of life'
+- GITenberg
+title: "Love, Life & Work\r\nBeing a Book of Opinions Reasonably Good-Natured Concerning\
+  \ How to Attain the Highest Happiness for One's Self with the Least Possible Harm\
+  \ to Others"
+url: http://www.gutenberg.org/ebooks/10417
