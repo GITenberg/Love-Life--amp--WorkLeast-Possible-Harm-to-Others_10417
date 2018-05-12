@@ -1,6 +1,9 @@
 _repo: Love-Life--amp--WorkLeast-Possible-Harm-to-Others_10417
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Love, Life and Work
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hubbard, Elbert
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/228
     wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10417#Love-Life--amp--WorkLeast-Possible-Harm-to-Others
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
